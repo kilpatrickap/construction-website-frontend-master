@@ -1,0 +1,22 @@
+.middle {
+	background-color: beige;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin: auto;
+	padding-left: 10px;
+	text-align: center;
+	position: relative;
+}
+
+.center {
+	margin: auto;
+	width: 50%;
+	padding: 30px;
+	text-align: center;
+  }
+
+.card-header {
+	background-color: #rgba(0,0,0,.03);
+	color: #6c757d;
+	font-size: 20px;
+}

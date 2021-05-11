@@ -1,0 +1,15 @@
+.top-material {
+	color: #40394A;
+	background-color: #ebecf1;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+	box-shadow: 5px 5px 5px #8888;
+}
+
+
+.h1 {
+	font-weight: bolder;
+	font-size: 50px;
+}
+
